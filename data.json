@@ -1,0 +1,602 @@
+[
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 181,
+      "Revenue": 4327
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 45,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Clothing",
+      "Product": "T-shirt",
+      "Quantity": 146,
+      "Revenue": 4009
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 183,
+      "Revenue": 5807
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 112,
+      "Revenue": 45730
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 104,
+      "Revenue": 49772
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 108,
+      "Revenue": 38608
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 56,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 95,
+      "Revenue": 4170
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 31,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 111,
+      "Revenue": 6769
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 200,
+      "Revenue": 2175
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 38,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 52,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 200,
+      "Revenue": 23585
+    },
+    {
+      "Category": "Clothing",
+      "Product": "T-shirt",
+      "Quantity": 200,
+      "Revenue": 2377
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 199,
+      "Revenue": 25354
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 38,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 102,
+      "Revenue": 23053
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 30,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 145,
+      "Revenue": 25810
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 148,
+      "Revenue": 23336
+    },
+    {
+      "Category": "Clothing",
+      "Product": "T-shirt",
+      "Quantity": 176,
+      "Revenue": 5509
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 150,
+      "Revenue": 1722
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 117,
+      "Revenue": 45276
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 124,
+      "Revenue": 47643
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 30,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 160,
+      "Revenue": 41175
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 60,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 147,
+      "Revenue": 21461
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 47,
+      "Revenue": 2221
+    },
+    {
+      "Category": "Clothing",
+      "Product": "T-shirt",
+      "Quantity": 200,
+      "Revenue": 1110
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 111,
+      "Revenue": 5417
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 198,
+      "Revenue": 3217
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 200,
+      "Revenue": 19878
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 198,
+      "Revenue": 22474
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 30,
+      "Revenue": 1451
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 122,
+      "Revenue": 2108
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 35,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 140,
+      "Revenue": 17923
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 30,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 42,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 122,
+      "Revenue": 23522
+    },
+    {
+      "Category": "Clothing",
+      "Product": "T-shirt",
+      "Quantity": 156,
+      "Revenue": 3498
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 72,
+      "Revenue": 49857
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 110,
+      "Revenue": 44592
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 30,
+      "Revenue": 3598
+    },
+    {
+      "Category": "Clothing",
+      "Product": "T-shirt",
+      "Quantity": 165,
+      "Revenue": 22048
+    },
+    {
+      "Category": "Clothing",
+      "Product": "T-shirt",
+      "Quantity": 168,
+      "Revenue": 1857
+    },
+    {
+      "Category": "Clothing",
+      "Product": "T-shirt",
+      "Quantity": 146,
+      "Revenue": 1986
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 51,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 38,
+      "Revenue": 1101
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 118,
+      "Revenue": 1516
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 31,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 98,
+      "Revenue": 47969
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 117,
+      "Revenue": 6437
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 112,
+      "Revenue": 25648
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 109,
+      "Revenue": 4734
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 135,
+      "Revenue": 5868
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 30,
+      "Revenue": 1812
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 30,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 37,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 38,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 177,
+      "Revenue": 3227
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 99,
+      "Revenue": 21997
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 157,
+      "Revenue": 26317
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 118,
+      "Revenue": 5219
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 101,
+      "Revenue": 23828
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 36,
+      "Revenue": 2356
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 113,
+      "Revenue": 23447
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 30,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 41,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 104,
+      "Revenue": 3582
+    },
+    {
+      "Category": "Clothing",
+      "Product": "T-shirt",
+      "Quantity": 142,
+      "Revenue": 5805
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 130,
+      "Revenue": 3890
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 33,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 110,
+      "Revenue": 35800
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 140,
+      "Revenue": 21272
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 111,
+      "Revenue": 3794
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 120,
+      "Revenue": 26732
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 30,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 98,
+      "Revenue": 20437
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 35,
+      "Revenue": 2689
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 182,
+      "Revenue": 3402
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 138,
+      "Revenue": 23438
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 41,
+      "Revenue": 1371
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Laptop",
+      "Quantity": 93,
+      "Revenue": 50000
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 30,
+      "Revenue": 1131
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 34,
+      "Revenue": 1959
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 38,
+      "Revenue": 1998
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 114,
+      "Revenue": 4016
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 128,
+      "Revenue": 3075
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 44,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 36,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 160,
+      "Revenue": 4690
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Lamp",
+      "Quantity": 50,
+      "Revenue": 1333
+    },
+    {
+      "Category": "Clothing",
+      "Product": "Jeans",
+      "Quantity": 196,
+      "Revenue": 2786
+    },
+    {
+      "Category": "Electronics",
+      "Product": "Smartphone",
+      "Quantity": 122,
+      "Revenue": 21320
+    },
+    {
+      "Category": "Home Decor",
+      "Product": "Painting",
+      "Quantity": 30,
+      "Revenue": 1000
+    },
+    {
+      "Category": "Clothing",
+      "Product": "T-shirt",
+      "Quantity": 96,
+      "Revenue": 1313
+    }
+  ]
